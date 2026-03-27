@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Pacote muito porreta para rebalancear as paradas!!",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}
